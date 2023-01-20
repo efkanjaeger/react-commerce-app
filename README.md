@@ -1,6 +1,12 @@
 
 
-# Getting Started with Create React App
+# <h2>React E-Commerce App</h2>
+
+React ile yazılan bir E-Ticaret sitesi uygulaması.
+
+![commerce](https://user-images.githubusercontent.com/108582184/213773724-6825276f-beb9-41cd-b448-a49e920b024f.gif)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
