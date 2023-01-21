@@ -2,7 +2,7 @@
 
 # <h2>React E-Commerce App</h2>
 
-React ile yazılan bir E-Ticaret sitesi uygulaması.
+An E-Commerce app made with React.js.
 
 ![commerce](https://user-images.githubusercontent.com/108582184/213773724-6825276f-beb9-41cd-b448-a49e920b024f.gif)
 
